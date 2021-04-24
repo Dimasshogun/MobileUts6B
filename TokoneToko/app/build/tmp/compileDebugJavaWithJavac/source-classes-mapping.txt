@@ -1,0 +1,2 @@
+id/rdev/Dim/BuildConfig.java
+ id.rdev.Dim.BuildConfig
